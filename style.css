@@ -8,11 +8,11 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-color: #f44bcf;  
+  background-color: #f6b5e8;  
 }
 
 .cabecalho {
-  background-color: #fe85ec;
+  background-color: #dcd6db;
   padding: 15px 25px;
   display: flex;
   justify-content: space-between;
