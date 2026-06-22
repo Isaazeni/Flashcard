@@ -1,5 +1,4 @@
-* {
-    box-sizing: border-box;
+* { box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
@@ -8,11 +7,10 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-color: #f8f6f8;  
+  background-color: #f5f2f2;  
 }
-
 .cabecalho {
-  background-color: #fef8fd;
+  background-color: #7e3e1c;
   padding: 15px 25px;
   display: flex;
   justify-content: space-between;
@@ -28,7 +26,6 @@ h1 {
   color: #fff;
   font-size: 24px;
 }
-
 main {
   flex: 1;
 }
@@ -41,9 +38,8 @@ main {
 .cartao-imagem {
     width: 100%;
 }
-
 footer {
-background-color: #b4795a;
+background-color: #7e3e1c;
 padding: 15px 25px;
 color: #fff;
 }
